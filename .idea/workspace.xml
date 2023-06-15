@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a475f757-504e-4e49-8366-f69bd58acadd" name="Changes" comment="Initial Commit: enter your zip code and see information about your address">
-      <change afterPath="$PROJECT_DIR$/src/br/com/diegosvp/viacep/controller/LerCep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/diegosvp/viacep/controller/RequisicaoApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a475f757-504e-4e49-8366-f69bd58acadd" name="Changes" comment="General: changes and creations of new classes to make the code more organized and within the design patterns">
       <change beforePath="$PROJECT_DIR$/endereço.json" beforeDir="false" afterPath="$PROJECT_DIR$/endereço.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/diegosvp/viacep/controller/Cadastro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/diegosvp/viacep/controller/Cadastro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,16 +32,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/diego/Downloads/gson-2.10.1.jar&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/diego/Downloads/gson-2.10.1.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,11 +59,19 @@
       <option name="project" value="LOCAL" />
       <updated>1686214485624</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="General: changes and creations of new classes to make the code more organized and within the design patterns">
+      <created>1686862450664</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686862450664</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit: enter your zip code and see information about your address" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit: enter your zip code and see information about your address" />
+    <MESSAGE value="General: changes and creations of new classes to make the code more organized and within the design patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="General: changes and creations of new classes to make the code more organized and within the design patterns" />
   </component>
 </project>
